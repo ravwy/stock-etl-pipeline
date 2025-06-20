@@ -55,11 +55,5 @@ stock_etl_pipeline/
     └── top10_stocks.png
 </pre>
 
-stock_etl_pipeline/
-├── README.md
-├── requirements.txt
-├── stock_etl_pipeline.ipynb
-└── visualizations/
-    └── top10_stocks.png
 
 
