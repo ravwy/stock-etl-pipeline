@@ -29,11 +29,9 @@ This project fetches real-time stock data using `yfinance`, processes it to comp
 
 ---
 
-## 🧪 Sample Output
+##  📈 Stock ETL Pipeline & Visualization
 
 > Visualization of 7-day moving averages across 10 major tech stocks:
-
-# 📈 Stock ETL Pipeline & Visualization
 
 ![Top 10 Stocks](https://raw.githubusercontent.com/ravwy/stock-etl-pipeline/main/visualizations/top10_stocks.png)
 
