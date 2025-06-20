@@ -35,7 +35,8 @@ This project fetches real-time stock data using `yfinance`, processes it to comp
 
 # 📈 Stock ETL Pipeline & Visualization
 
-![Top 10 Stocks Moving Averages](visualizations/top10_stocks_ma.png)
+![Top 10 Stocks](https://raw.githubusercontent.com/ravwy/stock-etl-pipeline/main/visualizations/top10_stocks.png)
+
 
 
 
