@@ -41,3 +41,15 @@ This project fetches real-time stock data using `yfinance`, processes it to comp
 This project extracts live stock market data using `yfinance`, processes it by calculating 7-day moving averages, and visually compares the top 10 most active stocks in a grid of subplots. It's perfect for spotting trends at a glance and showcasing real-time financial analytics using Python.
 
 ---
+
+
+
+## 📁 Project Structure
+
+stock-etl-pipeline/
+├── Readme.md
+├── Requirements.txt
+├── Stock ETL pipeline.ipynb
+└── visualizations
+    └── top10_stocks.png
+
