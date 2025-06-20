@@ -46,10 +46,20 @@ This project extracts live stock market data using `yfinance`, processes it by c
 
 ## 📁 Project Structure
 
-stock-etl-pipeline/
-├── Readme.md
-├── Requirements.txt
-├── Stock ETL pipeline.ipynb
-└── visualizations
+<pre>
+stock_etl_pipeline/
+├── README.md
+├── requirements.txt
+├── stock_etl_pipeline.ipynb
+└── visualizations/
     └── top10_stocks.png
+</pre>
+
+stock_etl_pipeline/
+├── README.md
+├── requirements.txt
+├── stock_etl_pipeline.ipynb
+└── visualizations/
+    └── top10_stocks.png
+
 
